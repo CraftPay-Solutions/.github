@@ -17,7 +17,7 @@
 
 ## 📖 O projekcie
 
-CraftPay to nowoczesna platforma umożliwiająca właścicielom serwerów Minecraft błyskawiczne uruchomienie własnego sklepu internetowego. W pełni darmowa, bez ukrytych opłat i ograniczeń – gotowa do pracy w kilka minut.
+CraftPay to nowoczesna platforma umożliwiająca właścicielom serwerów Minecraft błyskawiczne uruchomienie własnego sklepu internetowego. W pełni darmowa, bez ukrytych opłat i ograniczeń - gotowa do pracy w kilka minut.
 
 🌐 **Strona:** [CraftPay.pl](https://www.craftpay.pl)
 
