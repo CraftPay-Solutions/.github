@@ -6,7 +6,7 @@
 
 **Nowoczesna platforma do monetyzacji serwerów Minecraft**
 
-[![Website](https://img.shields.io/badge/craftpay.pl-09C777?style=for-the-badge&logo=google-chrome&logoColor=black)](https://www.craftpay.pl)
+[![Website](https://img.shields.io/badge/craftpay.pl-FF9500?style=for-the-badge&logo=google-chrome&logoColor=black)](https://www.craftpay.pl)
 [![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 
